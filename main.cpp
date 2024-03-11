@@ -11,7 +11,7 @@ int main()
 
     alarmLed = OFF;
 
-    printf("%s\n", "Hello World");
+    printf("%s\n", "Hello World"); // Esta línea la agregó Jorge
 
     while (true) {
 
